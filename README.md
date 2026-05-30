@@ -1,6 +1,6 @@
 # Decision Science Research  
 
-This repository contains a research project in decision science, focused on advancing analytical and prescriptive approaches to complex decision-making. This project explores a variety of research directions, including optimization, simulation, decision-support models, ML, and theoretical frameworks.
+This repository contains a research project in decision science, focused on advancing analytical and prescriptive approaches to complex decision-making. This project explores a variety of research directions, simulation, decision-support models, ML, and theoretical frameworks.
 
 ## Organization  
 Each research project is contained in its own folder at the root of this repository.
