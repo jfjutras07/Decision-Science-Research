@@ -1,9 +1,13 @@
 # Decision Science Research  
 
-This repository contains a research project in decision science, focused on advancing analytical and prescriptive approaches to complex decision-making. This project explores a variety of research directions, simulation, decision-support models, ML, and theoretical frameworks.
+**Problem**
+Ex-post program evaluation is often hindered by fragmented, incomplete, and heterogeneous data, making it difficult to reconstruct meaningful program-level insights.
+
+**Solution**
+This applied doctoral project provides a structured framework for reconstructing programs by linking project deliverables to overarching goals, using a multidimensional, anchored ordinal rating system stored in a relational database to restore analytical coherence.
 
 ## Organization  
-Each research project is contained in its own folder at the root of this repository.
+Each project is contained in its own folder at the root of this repository.
 
 ## Technical Stack  
 Python | R | SQL | OR-Tools | Pyomo | pandas | numpy | matplotlib | seaborn | plotly  
