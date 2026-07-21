@@ -6,9 +6,9 @@ This doctoral research project develops a structured framework for reconstructin
 
 <img width="420" height="451" alt="image" src="https://github.com/user-attachments/assets/5427dab9-4c16-4fca-b5e6-a0e8460c31af" />
 
-## Research Framework
+## Research Focus
 
-The research focuses on:
+The research explores:
 
 - Reconstruction of program logic from fragmented implementation data
 - Multidimensional assessment of deliverable and project-level outcomes
@@ -16,19 +16,14 @@ The research focuses on:
 - Relational modeling of complex development programs
 - Evidence-based ex-post evaluation and decision support
 
-## Research Outputs
+## Repository Structure
 
 This repository contains:
 
-- Doctoral dissertation materials
-- Research articles and manuscripts
-- Analytical frameworks and methodological developments
-- Proof-of-concept developments integrating advanced analytics, machine learning, and emerging AI approaches
-
-## Organization
-
-Each research component is contained in its own folder at the root of this repository.
+- **Doctoral_Thesis**: Research materials supporting the doctoral dissertation, including concept papers, literature reviews, proposals, notebooks, methodological developments, and dissertation chapters.
+- **Scientific_Articles**: Manuscripts related to methodological and applied contributions in decision science and analytics.
+- **Proofs_of_Concept**: Experimental projects exploring advanced analytics, machine learning, generative AI, agentic AI, and decision support approaches.
 
 ## Research Development Notes
 
-This repository serves as both a research archive and a continuous development environment. Methodological improvements, analytical extensions, and research outputs are progressively consolidated into a broader decision science framework.
+This repository serves as both a research archive and a continuous development environment. Methodological improvements, analytical extensions, and experimental projects are progressively integrated into a broader decision science framework.
