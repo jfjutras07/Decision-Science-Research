@@ -2,6 +2,8 @@
 
 This directory contains the research materials supporting my doctoral dissertation in business and data analytics.
 
+<img width="1167" height="758" alt="image" src="https://github.com/user-attachments/assets/b2aee3a4-c761-4047-9983-02e7b24e5ecc" />
+
 Contents include:
 
 - Concept Paper
@@ -12,3 +14,4 @@ Contents include:
 - Supporting Documentation
 
 These materials document the progression of the research from its initial concept to the completed dissertation.
+
