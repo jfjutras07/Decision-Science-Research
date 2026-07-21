@@ -4,6 +4,8 @@ Ex-post program evaluation is often hindered by fragmented, incomplete, and hete
 
 This applied doctoral project provides a structured framework for reconstructing programs by linking project deliverables and activities to overarching goals, using a multidimensional, anchored ordinal rating system stored in a relational database to restore analytical coherence.
 
+<img width="420" height="451" alt="image" src="https://github.com/user-attachments/assets/5427dab9-4c16-4fca-b5e6-a0e8460c31af" />
+
 ## Organization  
 Each project is contained in its own folder at the root of this repository.
 
