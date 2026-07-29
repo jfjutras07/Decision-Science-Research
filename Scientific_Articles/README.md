@@ -8,7 +8,6 @@ The articles explore methodological and applied topics such as:
 - Decision Science
 - Evidence-Based Decision Making
 - Uncertainty Modeling
-- Advanced Analytics
-- Artificial Intelligence
+- Machine Learning and Advanced Analytics
 
 These manuscripts contribute to the dissemination of research findings through conferences and peer-reviewed publications.
