@@ -22,7 +22,6 @@ This repository contains:
 
 - **Doctoral_Thesis**: Research materials supporting the doctoral dissertation, including concept papers, literature reviews, proposals, notebooks, methodological developments, and dissertation chapters.
 - **Scientific_Articles**: Manuscripts related to methodological and applied contributions in decision science and analytics.
-- **Proofs_of_Concept**: Experimental projects exploring advanced analytics, machine learning, generative AI, agentic AI, and decision support approaches.
 
 ## Research Development Notes
 
