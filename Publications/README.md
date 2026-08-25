@@ -1,4 +1,4 @@
-## Publications
+# Publications
 
 This section contains selected publications related to the doctoral research project and its broader dissemination.
 
