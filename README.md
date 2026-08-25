@@ -21,7 +21,7 @@ The research explores:
 This repository contains:
 
 - **Doctoral_Thesis**: Research materials supporting the doctoral dissertation, including concept papers, literature reviews, proposals, notebooks, methodological developments, and dissertation chapters.
-- **Scientific_Articles**: Manuscripts related to methodological and applied contributions in decision science and analytics.
+- **Publications**: Manuscripts related to methodological and applied contributions in decision science and analytics.
 
 ## Research Development Notes
 
